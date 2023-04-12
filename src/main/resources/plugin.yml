@@ -1,0 +1,4 @@
+name: Dawn
+version: '${project.version}'
+main: me.zombie_striker.dawn.Dawn
+api-version: 1.19
